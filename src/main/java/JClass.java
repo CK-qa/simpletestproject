@@ -1,6 +1,8 @@
 public class JClass {
 
     public void foo() {
-        System.out.println("pew pew");
+        for (int i = 0; i < 5; i++) {
+            System.out.print("lalala");
+        }
     }
 }

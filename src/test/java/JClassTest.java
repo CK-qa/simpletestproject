@@ -5,6 +5,6 @@ import static org.junit.Assert.*;
 public class JClassTest {
 
     @Test
-    public void foo() {
+    public void fooooo() {
     }
 }
